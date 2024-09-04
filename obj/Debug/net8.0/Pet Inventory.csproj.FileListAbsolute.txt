@@ -1,0 +1,14 @@
+C:\Users\Karl\Documents\Pet Inventory\bin\Debug\net8.0\Pet Inventory.exe
+C:\Users\Karl\Documents\Pet Inventory\bin\Debug\net8.0\Pet Inventory.deps.json
+C:\Users\Karl\Documents\Pet Inventory\bin\Debug\net8.0\Pet Inventory.runtimeconfig.json
+C:\Users\Karl\Documents\Pet Inventory\bin\Debug\net8.0\Pet Inventory.dll
+C:\Users\Karl\Documents\Pet Inventory\bin\Debug\net8.0\Pet Inventory.pdb
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\Pet Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\Pet Inventory.AssemblyInfoInputs.cache
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\Pet Inventory.AssemblyInfo.cs
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\Pet Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\Pet Inventory.dll
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\refint\Pet Inventory.dll
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\Pet Inventory.pdb
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\Pet Inventory.genruntimeconfig.cache
+C:\Users\Karl\Documents\Pet Inventory\obj\Debug\net8.0\ref\Pet Inventory.dll
